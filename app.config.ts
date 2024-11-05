@@ -1,5 +1,5 @@
 export default defineAppConfig({
-  title: 'Kaizen Shortlink',
+  title: 'Shortlink',
   email: 'contact@kaizenapps.com',
   twitter: 'https://x.com/kaizen_apps',
   github: 'https://github.com/kaizenapps',
