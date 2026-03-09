@@ -46,6 +46,6 @@
     }
   ],
   "triggers": {
-    "crons": ["0 0 * * *"] // Run backup task daily at 00:00 UTC
+    "crons": ["0 0 * * *"]
   }
 }
